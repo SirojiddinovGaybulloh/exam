@@ -1,0 +1,1 @@
+package comsirojiddinovgaybullo.core.di.ui.mainimport dagger.Module@Moduleclass MainActivityModule {}
